@@ -53,12 +53,6 @@ MIT License — Copyright (c) 2025 Sabin Ghimire
 
 ---
 
-### Step 5 — Add LICENSE file to each repo
-
-Inside each folder, create a file called `LICENSE` with this content (just change the name for the COVID one to include Anne):
-```
-MIT License
-
 Copyright (c) 2025 Sabin Ghimire
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
