@@ -80,6 +80,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-For COVID repo change the copyright line to:
-```
-Copyright (c) 2025 Sabin Ghimire, Anne Margaret Lorenzen
